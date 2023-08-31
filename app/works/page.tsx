@@ -1,8 +1,8 @@
 
-export default function Home() {
+export default function Works() {
   return (
     <div className="text-green-500">
-      <p>HI~ This is PIE</p>
+      Works Page
     </div>
   )
 }
